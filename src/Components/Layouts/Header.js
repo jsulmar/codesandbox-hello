@@ -36,8 +36,8 @@ export default function ButtonAppBar() {
           >
             <MenuIcon />
           </IconButton>
-          <Typography variant="h6" className={classes.title}>
-            News
+          <Typography variant="h6" color="inherit" className={classes.title}>
+            Exercise Datbase
           </Typography>
           <Button color="inherit">Login</Button>
         </Toolbar>
